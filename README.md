@@ -1,4 +1,6 @@
 # Hand-Detector-using-simple-CNN
+## Description
+In this project, I have tried to build a CNN model which trains on the dataset containing hands, and tries to predict in realtime if a hand is present in the frame.
 ## How to use
 1. Collect data using Data_Collector.py
 1.1. Press 'S' to start saving and press 'S' to stop saving
