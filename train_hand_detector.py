@@ -6,7 +6,7 @@ import tensorflow as tf
 from tensorflow.keras import layers, models
 
 H,W = 350,500
-Z=667
+Z=1220
 
 def load_data(image_dir):
     X = []
